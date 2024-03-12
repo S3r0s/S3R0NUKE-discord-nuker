@@ -8,3 +8,4 @@ S3r0nuke's capabilities extend beyond simple evasion tactics, encompassing tools
 
 Despite Discord's efforts to enhance security and mitigate abuse, S3r0nuke remains a potent tool in the hands of malicious actors. Its ability to evade detection and circumvent restrictions poses a significant challenge to Discord's community guidelines and platform integrity. As a result, the proliferation of S3r0nuke underscores the ongoing arms race between platform operators and those seeking to exploit vulnerabilities for nefarious purposes.
 ![s3r0nuke](https://github.com/S3r0s/S3R0NUKE/assets/162865983/652d33ca-e166-4dd4-af83-125cb97332f1)
+RUN AS ADMINN
